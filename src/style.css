@@ -1,0 +1,12 @@
+body {
+    color:#adb5bd;
+    background-color:#1c1c21;
+
+}
+
+.karla-h1 {
+  font-family: "Karla", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
